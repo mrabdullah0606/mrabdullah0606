@@ -1,5 +1,71 @@
-# 💫 About Me:
-🔭 I’m currently working on building full-stack web applications with Laravel and modern JavaScript frameworks.<br><br>👯 I’m looking to collaborate on innovative web projects or SaaS platforms that solve real problems.<br><br>🤝 I’m looking for help with learning advanced Flutter mobile development and real-time app integrations.<br><br>🌱 I’m currently learning Flutter, API integrations, and enhancing my real-time chat systems.<br><br>💬 Ask me about Laravel, full-stack development, payment gateway integration, or building scalable web apps.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, efficient solutions—especially with code!
+# 💫 About Me
+
+Hi, I'm a Full-Stack Web Developer with 4+ years of experience building scalable, high-performance web applications using Laravel and modern JavaScript frameworks.
+
+I specialize in turning complex ideas into clean, efficient, and maintainable solutions.
+
+---
+
+## 🔭 What I'm Working On
+- Building full-stack applications with Laravel & modern JS frameworks  
+- Developing real-time systems (chat apps, live updates)  
+- Exploring advanced Flutter mobile development  
+
+---
+
+## 👯 Open to Collaborate On
+- SaaS platforms  
+- Innovative web applications  
+- Real-world problem-solving products  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter development  
+- Real-time architectures & WebSockets  
+- API optimization & scalable backend systems  
+
+---
+
+## 💬 Ask Me About
+- Laravel & full-stack development  
+- Payment gateway integrations  
+- REST APIs & real-time apps  
+- Scalable web architecture  
+
+---
+
+## ⚡ Fun Fact
+I enjoy simplifying complex problems into elegant and efficient code solutions.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+HTML5, JavaScript (ES6+), React, Next.js, TailwindCSS, Bootstrap, Alpine.js, jQuery  
+
+### Backend
+PHP (Laravel, Livewire), Python, REST APIs, JWT Authentication  
+
+### Mobile
+Flutter  
+
+### Real-Time & Integrations
+Socket.io, Twilio, Firebase  
+
+### Cloud & DevOps
+AWS, Vercel, Netlify, Cloudflare, Nginx  
+
+### Databases
+MySQL, MongoDB, MariaDB, SQLite, Firebase  
+
+### Tools & Design
+Git, GitHub, Postman, Figma  
+
+---
+
+⭐️ Always open to exciting opportunities and collaborations!
 
 
 ## 🌐 Socials:
